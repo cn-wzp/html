@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.20.0",
     "element-ui": "^1.4.2",
     "headroom.js": "^0.9.4",
     "mavon-editor": "^2.2.3",
